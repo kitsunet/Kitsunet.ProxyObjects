@@ -1,0 +1,13 @@
+{
+    "name": "kitsunet/proxy-objects",
+    "description": "Some helpful proxy and meta objects",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kitsunet\\ProxyObjects\\": "Classes/"
+        }
+    }
+}
